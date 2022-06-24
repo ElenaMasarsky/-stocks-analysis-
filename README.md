@@ -14,7 +14,7 @@ Our refactore code should run faster than it did in our previous analysis for St
 ## Results
 
 ### Now we want to compare the stock performance between 2017 and 2018
-"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_analysis_2017.png"
+C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_analysis_2017.png
 "C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_analysis_2018.png"
 We made positive returns green and negative returns red. So it's easy to determine that 2017's stocks did well and 2018's wasn't as much successful.
 Obviously Steve might recommend his parents to invest their funds to ENPH and RUN companies which returns were 81.9% and 84.0% respectively.
