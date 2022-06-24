@@ -1,5 +1,5 @@
 # stocks-analysis
-Performing analysis of the stock data for Steve
+Performing analysis of the stock data for Steve. 
 Practice
 
 ## Overview of Project
@@ -21,13 +21,13 @@ Obviously Steve might recommend his parents to invest their funds to ENPH and RU
 
 ### Now we want to compare execution times of the original script and the refactored script
 Elapsed run time for the original code for green stocks analysis (2017):
-"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_2017.png"
+	"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_2017.png"
 Elapsed run time for the refactored code for green stocks analysis (2017):
-"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\VBA_Challenge_2017.png"
+	"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\VBA_Challenge_2017.png"
 Elapsed run time for the original code for green stocks analysis (2018):
-"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_2018.png"
+	"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\green_stocks_2018.png"
 Elapsed run time for the refactored code for green stocks analysis (2018):
-"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\VBA_Challenge_2018.png"
+	"C:\Users\ymasa\ucb\homework\02\stocks-analysis\Resources\VBA_Challenge_2018.png"
 By comparing these screenshots we can conclude that our refactored code runs faster than original.
 
 ## Summary
